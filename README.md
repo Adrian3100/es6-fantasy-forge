@@ -16,3 +16,10 @@ Object instantiation with new
 A Hero is created with a name, health, and mana.
 The `rest()` method restores health and mana.
 The `takeDamage()` method reduces health.
+
+## TypeScript
+Build:
+npm run build 
+
+Run:
+npm start
