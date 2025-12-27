@@ -1,0 +1,14 @@
+{
+  "name": "es6-fantasy-forge",
+  "version": "1.0.0",
+  "description": "Fantasy Forge project practicing ES6 classes and TypeScript",
+  "main": "dist/hero.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/hero.js",
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
